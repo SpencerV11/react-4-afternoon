@@ -9,7 +9,7 @@ export default class App extends Component {
       <HashRouter>
         <div>
           <nav className='nav'>
-            <div>Big-Boi University</div>
+            <div>WestSide University</div>
             <div className='link-wrap'>
               <Link to="/">Home</Link>
               <Link to="/about">About</Link>
